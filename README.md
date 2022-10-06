@@ -11,7 +11,8 @@ This project coded for to lower the size of photo citizen numbers over existing 
 
 # Use as Module
 You can import resize file in any program
-When you create a objectin resize, it resize automaticly, then it send data to your savePath variable that is second variable when create object.
+
+When you create a object Resize, it resize automaticly, then it send data to your savePath variable that is second variable when create object.
 
 # Requirement
 - python 3.5+
