@@ -15,7 +15,7 @@ When you create a objectin resize, it resize automaticly, then it send data to y
 
 # Requirement
 - python 3.5+
-- pillow (you can install with python -m pip install --upgrade Pillow)
+- pillow (it comes from python, if you are having problems you can try this code `python -m pip install --upgrade Pillow`)
 
 
 # Test Knowledge
