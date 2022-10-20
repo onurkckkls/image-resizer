@@ -1,5 +1,5 @@
 # Project Summary
-This project coded for to lower the size of photo citizen numbers over existing security measures.
+This project coded for to lower the size of photo
 
 
 # Easy Usage
